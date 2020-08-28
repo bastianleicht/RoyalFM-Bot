@@ -1,0 +1,13 @@
+CREATE DATABASE DiscordRoyalFM;
+
+CREATE TABLE Guilds (
+    guildId VARCHAR(100) NOT NULL PRIMARY KEY,
+    guildOwnerId VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE GuildConfig (
+    guildId VARCHAR(100) NOT NULL PRIMARY KEY,
+    cmdPrefix VARCHAR(10) DEFAULT '-',
+    radioChannel VARCHAR(100) NOT NULL
+
+);

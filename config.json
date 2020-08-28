@@ -1,0 +1,11 @@
+{
+    "owner": "350618993020764161",
+    "prefix": "+",
+    "version": "1.0.0",
+    "database": {
+        "username": "root",
+        "password": "",
+        "database": "DiscordRoyalFM"
+    }
+
+}
