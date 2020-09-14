@@ -1,2 +1,2 @@
 # RoyalFM-Bot
-A Bot i made for RoyalFM www.royalfm.de
+A Bot I Made for RoyalFM www.royalfm.de
