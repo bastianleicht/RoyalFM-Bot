@@ -1,2 +1,2 @@
 # RoyalFM-Bot
-A Bot I Made for RoyalFM www.royalfm.de
+Ein Discord Radio-Bot, welchen ich für www.royalfm.de entwickelt habe.
